@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_spinner">
+        <item>教室</item>
+        <item>图书馆</item>
+        <item>社团</item>
+        <item>兴趣小组</item>
+        <item>体育比赛</item>
+    </string-array>
+</resources>
