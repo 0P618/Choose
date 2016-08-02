@@ -1,5 +1,6 @@
-package com.goldenration.sdbi.xx.timechoose.activity;
+package com.goldenration.sdbi.xx.choose.activity;
 
+import android.app.ActivityManager;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -8,12 +9,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.KeyEvent;
+import android.view.LayoutInflater;
+import android.view.Menu;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.goldenration.sdbi.xx.timechoose.R;
-import com.goldenration.sdbi.xx.timechoose.bean.User;
+import com.goldenration.sdbi.xx.choose.R;
+import com.goldenration.sdbi.xx.choose.bean.User;
 
 import java.util.List;
 

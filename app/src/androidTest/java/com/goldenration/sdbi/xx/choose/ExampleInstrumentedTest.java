@@ -1,4 +1,4 @@
-package com.goldenration.sdbi.xx.timechoose;
+package com.goldenration.sdbi.xx.choose;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
