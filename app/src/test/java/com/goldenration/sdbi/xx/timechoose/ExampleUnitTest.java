@@ -1,4 +1,4 @@
-package com.goldenration.sdbi.xx.choose;
+package com.goldenration.sdbi.xx.timechoose;
 
 import org.junit.Test;
 

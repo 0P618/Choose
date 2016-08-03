@@ -1,4 +1,4 @@
-package com.goldenration.sdbi.xx.choose.bean;
+package com.goldenration.sdbi.xx.timechoose.bean;
 
 import cn.bmob.v3.BmobObject;
 
