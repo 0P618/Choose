@@ -16,7 +16,7 @@
         android:inputType="number" />
 
     <EditText
-        android:id="@+id/et_pwd"
+        android:id="@+id/et_stu_pwd"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:drawableLeft="@drawable/ic_mode_edit_black_24dp"
