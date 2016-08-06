@@ -3,16 +3,24 @@ package com.goldenration.sdbi.xx.timechoose.bean;
 import cn.bmob.v3.BmobObject;
 
 /**
- * Created by  on 2016/8/3.
+ * Created by Kiuber on 2016/8/3.
  */
 
 public class Student extends BmobObject {
     private String Stu_ID;
     private String Stu_Name;
+    private String Stu_Class;
     private String Stu_Sex;
     private String Stu_Pwd;
     private String Stu_DefaultPwdStatus;
 
+    public String getStu_Class() {
+        return Stu_Class;
+    }
+
+    public void setStu_Class(String stu_Class) {
+        Stu_Class = stu_Class;
+    }
     public String getStu_ID() {
         return Stu_ID;
     }

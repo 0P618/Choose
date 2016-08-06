@@ -6,10 +6,16 @@
     android:padding="10dp">
 
     <EditText
-        android:id="@+id/et_new_pwd"
+        android:id="@+id/et_new_pwd1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="请输入新密码" />
+
+    <EditText
+        android:id="@+id/et_new_pwd2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请再次输入新密码" />
 
     <Button
         android:id="@+id/btn_change"
